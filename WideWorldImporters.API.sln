@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WideWorldImporters.API", "WideWorldImporters.API\WideWorldImporters.API.csproj", "{CFBFC03F-CE75-453A-92FB-4176CE9EFF6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WideWorldImporters.API.UnitTests", "WideWorldImporters.API.UnitTests\WideWorldImporters.API.UnitTests.csproj", "{4D585884-FF3C-44A7-9080-3ABCC01F33B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBFC03F-CE75-453A-92FB-4176CE9EFF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBFC03F-CE75-453A-92FB-4176CE9EFF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBFC03F-CE75-453A-92FB-4176CE9EFF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBFC03F-CE75-453A-92FB-4176CE9EFF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D585884-FF3C-44A7-9080-3ABCC01F33B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D585884-FF3C-44A7-9080-3ABCC01F33B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D585884-FF3C-44A7-9080-3ABCC01F33B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D585884-FF3C-44A7-9080-3ABCC01F33B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A763811-2FAE-4FFA-87EB-106CFD89CD8F}
+	EndGlobalSection
+EndGlobal

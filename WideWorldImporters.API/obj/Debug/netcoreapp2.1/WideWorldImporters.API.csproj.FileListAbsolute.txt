@@ -1,0 +1,15 @@
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\bin\Debug\netcoreapp2.1\WideWorldImporters.API.deps.json
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\bin\Debug\netcoreapp2.1\WideWorldImporters.API.runtimeconfig.json
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\bin\Debug\netcoreapp2.1\WideWorldImporters.API.runtimeconfig.dev.json
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\bin\Debug\netcoreapp2.1\WideWorldImporters.API.dll
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\obj\Debug\netcoreapp2.1\WideWorldImporters.API.csprojAssemblyReference.cache
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\obj\Debug\netcoreapp2.1\WideWorldImporters.API.csproj.CoreCompileInputs.cache
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\obj\Debug\netcoreapp2.1\WideWorldImporters.API.RazorAssemblyInfo.cache
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\obj\Debug\netcoreapp2.1\WideWorldImporters.API.RazorAssemblyInfo.cs
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\obj\Debug\netcoreapp2.1\WideWorldImporters.API.AssemblyInfoInputs.cache
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\obj\Debug\netcoreapp2.1\WideWorldImporters.API.AssemblyInfo.cs
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\obj\Debug\netcoreapp2.1\WideWorldImporters.API.RazorTargetAssemblyInfo.cache
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\bin\Debug\netcoreapp2.1\WideWorldImporters.API.pdb
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\obj\Debug\netcoreapp2.1\WideWorldImporters.API.dll
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\obj\Debug\netcoreapp2.1\WideWorldImporters.API.pdb
+c:\users\dell\source\repos\WideWorldImporters.API\WideWorldImporters.API\bin\Debug\netcoreapp2.1\WideWorldImporters.API.xml
